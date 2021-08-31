@@ -1,4 +1,4 @@
-Hi.  
+Hi,  
 My name is Marek Ostrysz.  
 In this profile you will find my portfolio, which includes my workbench. :)  
 Every now and then I will try to upload a selected project here.  
