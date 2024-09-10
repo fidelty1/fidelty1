@@ -36,6 +36,7 @@ I wish you have a nice day!
 
 ## Tools
 ![Makefile](https://img.shields.io/badge/Makefile-065535.svg?style=for-the-badge&logo=gnu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Libraries
 ![CMSIS-DSP](https://img.shields.io/badge/CMSIS--DSP-00A3E0.svg?style=for-the-badge&logo=arm&logoColor=white)
