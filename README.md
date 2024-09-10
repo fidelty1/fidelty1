@@ -23,7 +23,6 @@ I wish you have a nice day!
 ### PCB Design
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-87CEEB.svg?style=for-the-badge&logo=easyeda&logoColor=white)
 ![Autodesk EAGLE](https://img.shields.io/badge/Autodesk_EAGLE-32CD32.svg?style=for-the-badge&logo=autodesk&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-FFD700.svg?style=for-the-badge&logo=altiumdesigner&logoColor=black)
 
 ## Microcontrollers Environments
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-87CEEB.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
@@ -42,6 +41,7 @@ I wish you have a nice day!
 ![CMSIS-RTOS](https://img.shields.io/badge/CMSIS--RTOS-00599C.svg?style=for-the-badge&logo=arm&logoColor=white)
 ![HAL](https://img.shields.io/badge/HAL-0072C6.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Pthreads](https://img.shields.io/badge/Pthreads-FFD700.svg?style=for-the-badge&logo=pthreads&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003A6C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![LL](https://img.shields.io/badge/LL-00599C.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
