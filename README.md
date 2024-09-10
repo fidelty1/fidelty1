@@ -23,6 +23,7 @@ I wish you have a nice day!
 ### PCB Design
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-87CEEB.svg?style=for-the-badge&logo=easyeda&logoColor=white)
 ![Autodesk EAGLE](https://img.shields.io/badge/Autodesk_EAGLE-32CD32.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-FFD700.svg?style=for-the-badge&logo=altiumdesigner&logoColor=black)
 
 ## Microcontrollers Environments
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-87CEEB.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
