@@ -158,8 +158,8 @@ The system also features a configured buzzer, in which melodies such as Pirates 
 
 
 #### Demonstrator
-[STM32L552CEU6_system](https://github.com/fidelty1/PCB_Projects_DEMO/blob/main/STM32L552CEU6_system.mp4)
-
+Video: [STM32L552CEU6_system](https://github.com/fidelty1/PCB_Projects_DEMO/blob/main/STM32L552CEU6_system.mp4)
+![Microprocessor_system](https://github.com/fidelty1/PCB_Projects_DEMO/blob/main/microprocessor_system.jpg)
 
 ## Publications ([ORCID](https://orcid.org/0009-0003-4034-4131): 0009-0003-4034-4131)
 
