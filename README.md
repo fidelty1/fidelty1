@@ -133,6 +133,37 @@ Custom libraries were developed in C for the STM32 microcontroller to handle hea
 ![ECG_PPG_DEMO](https://github.com/fidelty1/PCB_Projects_DEMO/blob/main/ECG_PPG_DEMO.gif)
 
 
+
+
+##
+
+### Ultra-Low-Power Microprocessor System with Integrated Sensors and Audio Alerts
+
+- *Tech Stack:*
+
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-FFD700.svg?style=for-the-badge&logo=altiumdesigner&logoColor=black)
+![C](https://img.shields.io/badge/c-228B22.svg?style=for-the-badge&logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-0000FF.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![HAL](https://img.shields.io/badge/HAL-0072C6.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![STM32CubeProgrammer](https://img.shields.io/badge/STM32CubeProgrammer-00008B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-87CEEB.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
+
+
+#### Description
+The microprocessor system design was implemented as a four-layer printed circuit board in the Altium Designer environment. The control unit of the project is an ultra-low-power microprocessor STM32L552CEU6 (QFN-48 package).
+
+In addition to the standard hardware setup for microprocessor configuration (BOOT0, VMCU, RST), the microprocessor system is also integrated with sensors such as the ADXL343 accelerometer, the MCP9800 digital temperature sensor, and the MAX30205 biomedical human body temperature sensor. The latter includes an interrupt pin (configured for 37-39°C), which is set to wake up the microprocessor via low-power wake-up pins.
+
+The system also features a configured buzzer, in which melodies such as Pirates of the Caribbean, Harry Potter, Star Wars, and Happy Birthday have been implemented.
+
+
+#### Demonstrator
+![STM32L552CEU6_system]()
+
+
+
+
+
 ## Publications ([ORCID](https://orcid.org/0009-0003-4034-4131): 0009-0003-4034-4131)
 
 ### [Using of a STM32 microcontroller for biomedical signals processing in real time](https://doi.org/10.15199/13.2024.8.2)
